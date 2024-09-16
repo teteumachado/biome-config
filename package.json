@@ -1,0 +1,22 @@
+{
+  "name": "@teteumachado/biome-config",
+  "version": "1.0.0",
+  "author": "https://github.com/teteumachado",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "biome",
+    "biomejs",
+    "config"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teteumachado/biome-config.git"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.1"
+  }
+}
