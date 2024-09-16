@@ -15,7 +15,7 @@ Add this line to your `biome.jsonc`:
 ```jsonc
 {
   "$schema": "https://biomejs.dev/schemas/1.8.0/schema.json",
-  "extends": ["@ivangabriele/biome-config"],
+  "extends": ["@teteumachado/biome-config"],
 }
 ```
 
