@@ -7,7 +7,7 @@ My most commonly used [Biome](https://biomejs.dev) configuration.
 Run:
 
 ```sh
-yarn add -DE @biomejs/biome @ivangabriele/biome-config
+yarn add -DE @biomejs/biome @teteumachado/biome-config
 ```
 
 Add this line to your `biome.jsonc`:
