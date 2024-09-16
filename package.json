@@ -1,6 +1,6 @@
 {
   "name": "@teteumachado/biome-config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "https://github.com/teteumachado",
   "license": "MIT",
   "type": "module",
@@ -12,6 +12,10 @@
     "biomejs",
     "config"
   ],
+  "bugs": {
+    "url": "https://github.com/teteumachado/biome-config/issues"
+  },
+  "homepage": "https://github.com/teteumachado/biome-config",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/teteumachado/biome-config.git"
