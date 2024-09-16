@@ -22,5 +22,9 @@
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.1"
+  },
+  "description": "My most commonly used [Biome](https://biomejs.dev) configuration.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
